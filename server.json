@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/vibemovie",
+  "name": "io.github.itsryanarmani/vibemovie",
   "description": "Turns an agent coding session into a short recap video. Local-first.",
   "version": "0.2.3",
   "repository": {
