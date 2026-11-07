@@ -35,13 +35,13 @@
     "typescript": "^5.4.0",
     "vitest": "^5.0.0"
   },
-  "homepage": "https://github.com/pooriaarab/vibemovie#readme",
+  "homepage": "https://github.com/itsryanarmani/vibemovie#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/vibemovie.git"
+    "url": "git+https://github.com/itsryanarmani/vibemovie.git"
   },
   "bugs": {
-    "url": "https://github.com/pooriaarab/vibemovie/issues"
+    "url": "https://github.com/itsryanarmani/vibemovie/issues"
   },
   "keywords": [
     "vibemovie",

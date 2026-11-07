@@ -3,7 +3,7 @@
 Add a second render engine to **vibemovie** so a coding session becomes a real gen-video, not just the offline Hyperframes HTML. Local-first stays the default; cinematic is opt-in and BYO-key.
 
 ## Context / reference (READ FIRST)
-- The validated pipeline recipe: `pooriaarab/skills` → `launch-video-generation/SKILL.md`, section **"Validated pipeline: cinematic character video"**. Follow it exactly.
+- The validated pipeline recipe: `itsryanarmani/skills` → `launch-video-generation/SKILL.md`, section **"Validated pipeline: cinematic character video"**. Follow it exactly.
 - Working reference implementation (canonical — copy the model IDs, params, ffmpeg filters, poll logic from these): `./.reference/chain.mjs` (keyframes → Kling first+last chain → face-swap → grade), `./.reference/vo-chain.mjs` (ElevenLabs V3 VO + mix), `./.reference/gemini-critique.mjs` (optional QC).
 - Existing engine seam: `src/index.ts` (`renderMovie`), `src/hyperframes.ts` (the current engine), `src/scenes.ts` (`buildScenes` — session events → beats). MCP in `src/mcp.ts`, CLI in `src/cli.ts`.
 
