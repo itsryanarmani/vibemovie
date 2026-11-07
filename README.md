@@ -175,7 +175,7 @@ Hosted rendering uses `https://api.wavespeed.ai/api/v3`. There is no separate El
 Version 0.2.4 is pre-1.0; APIs and generation behavior can change.
 Public case studies are not yet published. No public documentation site is configured; setup guidance is self-contained here.
 Source-only prototypes illustrate additional controls; they are not shipped web applications.
-Use [GitHub issues](https://github.com/pooriaarab/vibemovie/issues) for support; repository access may be required.
+Use [GitHub issues](https://github.com/itsryanarmani/vibemovie/issues) for support; repository access may be required.
 For contributions, run `npm ci`, `npm run build`, `npm run typecheck`, `npm test`, and `git diff --check`.
 
 ## FAQ
